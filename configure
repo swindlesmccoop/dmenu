@@ -1,0 +1,6 @@
+#!/bin/sh
+
+case $(uname) in
+	Linux) cp -f mkconfig/config.mk.linux config.mk ;;
+	*BSD) cp -f mkconfig/config.mk.bsd config.mk ;;
+esac
