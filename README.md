@@ -7,6 +7,6 @@
 Linux, OpenBSD, FreeBSD
 
 ## Software Made to Work With This
-- [DWM](/swindlesmccoop/dwm)
-- [DWMBlocks](/swindlesmccoop/dwmblocks)
-- [ST](/swindlesmccoop/st)
+- [DWM](https://github.com/swindlesmccoop/dwm)
+- [DWMBlocks](https://github.com/swindlesmccoop/dwmblocks)
+- [ST](https://github.com/swindlesmccoop/st)
